@@ -8,8 +8,8 @@
 
 ## Features
 
-1. Two Players
-2. Custom Player Name
+* Two Players
+* Custom Player Name
 
 ## How to run the game
 
@@ -24,17 +24,17 @@
 
 ### Game Class - `game.py`
 
-1. The main file of our program which is composed with `player.py` & `board.py`
-2. Allow two player to play taking turn
+* The main file of our program which is composed with `player.py` & `board.py`
+* Allow two player to play taking turn
 
 ### Player Class - `player.py`
 
-1. Get player-name and his play-sign to build an player object
-2. Get move from the user
+* Get player-name and his play-sign to build an player object
+* Get move from the user
 
 ### Board Class - `board.py`
 
-1. Build an empty board at the start of the game
-2. Display board
-3. Check status of each square
-4. Check for the winning condition
+* Build an empty board at the start of the game
+* Display board
+* Check status of each square
+* Check for the winning condition
